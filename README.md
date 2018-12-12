@@ -1,2 +1,2 @@
-# MIR_Final
+# MIR Final
 Source code for MIR final project.
